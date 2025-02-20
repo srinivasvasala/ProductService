@@ -1,4 +1,4 @@
-package com.srinivas.productservice.Model;
+package com.srinivas.productservice.Models;
 
 import jakarta.persistence.*;
 import lombok.*;
